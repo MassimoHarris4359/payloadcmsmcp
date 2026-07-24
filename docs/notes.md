@@ -50,3 +50,4 @@ Notes and usage details for payloadcmsmcp.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults
